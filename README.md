@@ -8,22 +8,22 @@ To use this code you essentially need: Python and SExtractor (Bertin, E. & Arnou
 The following Python packages are also required:
 
 
-splusdata
+*splusdata
 
-astropy
+*astropy
 
-os
+*os
 
-getpass
+*getpass
 
-shutil
+*shutil
 
-subprocess
+*subprocess
 
-csv
+*csv
 
-re
+*re
 
-pandas
+*pandas
 
-functools
+*functools
