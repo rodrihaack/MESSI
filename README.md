@@ -1,5 +1,5 @@
 # MESSI
-Measurment and Extraction with Sextractor on Surveys Images
+Measurement and Extraction with Sextractor on Surveys Images
 
 
 To use this code you essentially need: Python and SExtractor (Bertin, E. & Arnouts, S. 1996).
